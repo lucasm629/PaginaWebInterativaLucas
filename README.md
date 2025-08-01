@@ -1,10 +1,4 @@
-<body>
-<header>ALURAFLIX</header>
 
-<h1>ATRAVÉS DO ARANHAVER
-
-
-<iframe width="560" height="315" src="https:/ /ww.youtube.com/embed/gt_fAE1Eg20?
 
 
 
